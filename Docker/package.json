@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_on_oke",
+  "version": "1.0.0",
+  "description": "Deploying NodeJS on top of OKE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dralquinta/nodejs_on_oke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dralquinta/nodejs_on_oke/issues"
+  },
+  "homepage": "https://github.com/dralquinta/nodejs_on_oke#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
